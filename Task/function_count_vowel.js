@@ -15,7 +15,7 @@ function countVowelsAndConsonants(str) {
 }
 
 // Example
-const testcount = "Ankit kumar singh";
+const testcount = "Akshay pathania";
 const result = countVowelsAndConsonants(testcount);
 console.log(`String: "${testcount}"`);
 console.log(result);
