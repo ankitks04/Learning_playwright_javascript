@@ -1,6 +1,6 @@
 # Learning Playwright with JavaScript
 
-This repository contains learning code copied from `PramodDutta/LearnPlaywrightBatch2x` through `chapter_06`.
+This repository contains learning code copied from `PramodDutta/LearnPlaywrightBatch2x` through `chapter_08`.
 It is a step-by-step JavaScript practice workspace that builds the fundamentals often needed before moving deeper into Playwright test automation.
 
 ## Overview
@@ -13,6 +13,7 @@ The content in this repo focuses on early JavaScript concepts such as:
 - functions and scope
 - literals and template literals
 - operators, comparisons, and logical expressions
+- conditional statements (`if-else` and `switch-case`)
 
 The code is organized chapter by chapter so it is easy to study in sequence and run small examples independently.
 
@@ -24,6 +25,8 @@ The code is organized chapter by chapter so it is easy to study in sequence and 
 - `chapter_04_Javascript_Concepts`
 - `chapter_05_Literal`
 - `chapter_06_Operator`
+- `chapter_07_If_else`
+- `chapter_08_Switch_Statement`
 
 ## Chapter Summary
 
@@ -33,6 +36,8 @@ The code is organized chapter by chapter so it is easy to study in sequence and 
 - `chapter_04_Javascript_Concepts` focuses on variables, functions, scope, and hoisting using examples such as `10_functions.js`, `16_Hoisting.js`, and `20_let_const.js`.
 - `chapter_05_Literal` explores literals, strings, `null`, `undefined`, numbers, and template literals with examples like `28_Template_Literal.js`.
 - `chapter_06_Operator` covers arithmetic, modulus, exponent, comparison, logical, ternary, increment/decrement, and related operator practice.
+- `chapter_07_If_else` covers conditional branching logic using `if`, `else if`, and `else` statements.
+- `chapter_08_Switch_Statement` covers multi-way decision-making using `switch`, `case`, `default`, grouping, and common interview questions.
 
 ## Repository Structure
 
@@ -46,7 +51,7 @@ Some files already hint at testing and automation style examples, such as dynami
 
 ## Notes
 
-- This workspace currently includes source content only up to `chapter_06_Operator`.
+- This workspace currently includes source content up to `chapter_08_Switch_Statement`.
 - `README.md` files from the source repository chapters were intentionally skipped.
 - The top-level `README.md` in this repo is custom and maintained locally.
 
@@ -58,7 +63,9 @@ This progression works well:
 1. Start with `chapter_01_Basics`.
 2. Move through variables, scope, and hoisting in `chapter_04_Javascript_Concepts`.
 3. Practice string handling and literals in `chapter_05_Literal`.
-4. Finish with operator-based logic in `chapter_06_Operator`.
+4. Work with operator-based logic in `chapter_06_Operator`.
+5. Learn conditional execution in `chapter_07_If_else`.
+6. Practice multi-way branching in `chapter_08_Switch_Statement`.
 
 ## Goal
 
